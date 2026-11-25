@@ -1,0 +1,9 @@
+true,predicted,count,fraction_of_true_class
+Ragdoll,Birman,20,0.2
+American Pit Bull Terrier,American Bulldog,20,0.2
+Birman,Ragdoll,17,0.17
+Chihuahua,Shiba Inu,17,0.17
+Staffordshire Bull Terrier,Boxer,15,0.169
+American Pit Bull Terrier,Staffordshire Bull Terrier,15,0.15
+American Pit Bull Terrier,German Shorthaired,14,0.14
+Egyptian Mau,Bengal,13,0.134

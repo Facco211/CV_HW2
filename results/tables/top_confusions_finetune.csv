@@ -1,0 +1,9 @@
+true,predicted,count,fraction_of_true_class
+American Pit Bull Terrier,American Bulldog,17,0.17
+American Pit Bull Terrier,Staffordshire Bull Terrier,15,0.15
+Ragdoll,Birman,13,0.13
+Persian,Maine Coon,12,0.12
+Chihuahua,Shiba Inu,11,0.11
+American Pit Bull Terrier,German Shorthaired,10,0.1
+Staffordshire Bull Terrier,American Bulldog,9,0.101
+Pomeranian,Samoyed,9,0.09

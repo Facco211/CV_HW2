@@ -1,0 +1,9 @@
+true,predicted,count,fraction_of_true_class
+American Pit Bull Terrier,Staffordshire Bull Terrier,28,0.28
+Ragdoll,Birman,18,0.18
+American Pit Bull Terrier,American Bulldog,17,0.17
+Maine Coon,Bengal,14,0.14
+Russian Blue,British Shorthair,13,0.13
+Staffordshire Bull Terrier,American Bulldog,13,0.146
+English Cocker Spaniel,English Setter,10,0.1
+Siamese,Birman,9,0.09

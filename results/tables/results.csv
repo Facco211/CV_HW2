@@ -1,0 +1,4 @@
+Method,Trainable params,Training time (s),Best epoch,Train acc,Test acc,Gap (train - test),Val macro-F1,Test macro-F1,Selected hyperparameters
+Full fine-tuning,1555781,169.3,14,0.9817,0.8523,0.1294,0.8915,0.85,"Adam lr=0.0001, batch=32, epochs=20"
+Head training,628773,150.4,20,0.9603,0.8594,0.1009,0.8946,0.8568,"Adam lr=0.0001, batch=32, epochs=20"
+Random Forest,-,14.4,-,1.0,0.8237,0.1763,0.8746,0.819,"RandomForest n_estimators=300, max_features=sqrt, min_samples_leaf=1"
